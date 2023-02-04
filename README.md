@@ -2,6 +2,8 @@
 Save your password in an encrypted file
 
 # How to use it
+Needed: `pycryptodome`
+
 1. fill "password" and "iv" in `init.py`, they are the passwords to open the encrypted file
 
 2. run init.py to generate a password.json
